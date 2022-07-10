@@ -1,11 +1,10 @@
 {
-  "name": "openboard",
+  "name": "canvasdraw",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "engines": {
     "node": "16.15.1",
-    "npm" : "8.11.0"
+    "npm": "8.11.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +18,15 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romindhandhukiya/canvasDraw.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/romindhandhukiya/canvasDraw/issues"
+  },
+  "homepage": "https://github.com/romindhandhukiya/canvasDraw#readme",
+  "description": ""
 }
